@@ -1,2 +1,2 @@
 # Microsoftclone.github.io
-# Just for practice to check my capabilities.
+# Just for practice.
